@@ -2,7 +2,7 @@
 
 This repository contains the **Requirements Analysis and Specification Document (RASD)** and the **Design Document (DD)** for the *Best Bike Paths (BBP)* system, developed as part of the **Software Engineering II** course at Politecnico di Milano.
 
-BBP is a platform designed to help cyclists **discover, record, and share bike routes**, combining community-generated data with automated analysis to provide reliable information about cycling paths. :contentReference[oaicite:0]{index=0}
+BBP is a platform designed to help cyclists **discover, record, and share bike routes**, combining community-generated data with automated analysis to provide reliable information about cycling paths.
 
 ---
 
@@ -71,8 +71,5 @@ The goal of this project is to design a **complete software system starting from
 
 ## Authors
 
-- Giacomo Rigo  
-- Wojciech Maciej Bukala  
-- Mattia Zonzin  
-
+Giacomo Rigo  
 Politecnico di Milano — Software Engineering II
